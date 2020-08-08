@@ -1,4 +1,7 @@
 import code
 
-x = 2
-print(x)
+def ret_true():
+   return true
+
+def test_ret_true():
+   assert ret_true()
