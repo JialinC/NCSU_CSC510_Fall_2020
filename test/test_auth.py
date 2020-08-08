@@ -1,5 +1,5 @@
-import __init__
+import code
 
-x = inc(2)
+x = code.inc(2)
 print(x)
-print(test_answer())
+print(code.test_answer())
